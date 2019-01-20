@@ -4,7 +4,7 @@ This is github flavored markdown generate by a labview project.
 
 ##### Auto-Generated Table
 
-Header 1 | Header 2 | Header 3 
+Header 1 | Header 2 | Header 3
 ---|---
 1 | 0 | 1
 0 | 2 | 3
@@ -16,3 +16,6 @@ Header 1 | Header 2 | Header 3
 
 This is github flavored markdown generate by a labview project.  
 
+- [ ] Unordered Lists
+- [ ] Ordered Lists
+- [x] Pass/Fail List
