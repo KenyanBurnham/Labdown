@@ -1,8 +1,8 @@
 # Labdown
 
-In labdown, numerics and text are formatted into GitHub-Flavored markdown. The result is output as a string, saving the file as a markdown file allows an editor like Atom to compile the text as markdown. 
+In labdown, numerics and text are formatted into GitHub-Flavored markdown. The result is output as a string, saving the file as a markdown file allows an editor like Atom to compile the text as markdown.
 
-At the moment, the following capabilities are available: 
+At the moment, the following capabilities are available:
 
 - [ ] Unordered Lists
 - [ ] Ordered Lists
@@ -13,9 +13,10 @@ At the moment, the following capabilities are available:
 - [x] Images
 - [ ] Blockquote
 - [ ] Documentation on the Wiki
+
 #### Example Outputs
 
-Volts(V) | Current (A) | Time (s) 
+Volts(V) | Current (A) | Time (s)
 ---|---
 0 | 1 | 1
 3 | 4 | 5
@@ -26,5 +27,4 @@ Volts(V) | Current (A) | Time (s)
 
 ![Example PNG](Export Image.png)
 
-More progess will be made on these VI's, the goal will be to create programatic documentation for tests and experiements using National Instruments hardware. 
-
+More progess will be made on these VI's, the goal will be to create programatic documentation for tests and experiements using National Instruments hardware.
